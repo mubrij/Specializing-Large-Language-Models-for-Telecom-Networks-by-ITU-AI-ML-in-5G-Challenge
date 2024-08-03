@@ -1,1 +1,1 @@
-# Specializing-Large-Language-Models-for-Telecom-Networks-by-ITU-AI-ML-in-5G-Challenge
+This repository contains processing for "Specializing Large Language Models for Telecom Networks by ITU AI/ML in 5G Challenge" (https://zindi.africa/competitions/specializing-large-language-models-for-telecom-networks). The solution is created in Python, using Microsoft's Phi-2 model (https://huggingface.co/microsoft/phi-2). It contains prompt engineering, simple RAG application and model fine-tuning.
